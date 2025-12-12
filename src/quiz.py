@@ -13,7 +13,7 @@ items = list(terms.items())
 random.shuffle(items)
 
 score = 0
-print("git ISMS Term Quiz")
+print("ISMS Term Quiz")
 print("---------------------")
 
 for term, definition in items:
